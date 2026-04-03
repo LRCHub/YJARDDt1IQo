@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Only（feat. Kotoha）",
+  "base_artist": "Sizuk",
+  "createdAt": "2026-04-03T16:27:28.641909Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Only (feat. Kotoha)",
+      "artist": "Sizuk",
+      "has_synced": true,
+      "path": "select/01_Only_(feat._Kotoha)_Sizuk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's Only (feat. Zyra)",
+      "artist": "Odesza",
+      "has_synced": true,
+      "path": "select/02_It's_Only_(feat._Zyra)_Odesza.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One & Only (feat. Fall Out Boy)",
+      "artist": "Timbaland",
+      "has_synced": true,
+      "path": "select/03_One_&_Only_(feat._Fall_Out_Boy)_Timbaland.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Can Only. (feat. Alessia Cara)",
+      "artist": "JoJo feat. Alessia Cara",
+      "has_synced": true,
+      "path": "select/04_I_Can_Only._(feat._Alessia_Cara)_JoJo_feat._Alessia_Cara.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Can Only (Feat. Alessia Cara)",
+      "artist": "Jojo",
+      "has_synced": true,
+      "path": "select/05_I_Can_Only_(Feat._Alessia_Cara)_Jojo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One & Only - Feat. Double",
+      "artist": "Nelly feat. Double",
+      "has_synced": false,
+      "path": "select/06_One_&_Only_-_Feat._Double_Nelly_feat._Double.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One & Only (Feat. Double)",
+      "artist": "Double",
+      "has_synced": false,
+      "path": "select/07_One_&_Only_(Feat._Double)_Double.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One And Only (Feat. Twista)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/08_One_And_Only_(Feat._Twista)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Night Only (feat. Yohamna Solange)",
+      "artist": "Trivecta",
+      "has_synced": true,
+      "path": "select/09_One_Night_Only_(feat._Yohamna_Solange)_Trivecta.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fly By Night Only (feat. Yaarrohs)",
+      "artist": "The Glitch Mob feat. Yaarrohs",
+      "has_synced": true,
+      "path": "select/10_Fly_By_Night_Only_(feat._Yaarrohs)_The_Glitch_Mob_feat._Yaarrohs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fly By Night Only (feat. Yaarr",
+      "artist": "The Glitch Mob / Yaarrohs",
+      "has_synced": true,
+      "path": "select/11_Fly_By_Night_Only_(feat._Yaarr_The_Glitch_Mob___Yaarrohs.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If Only (feat. Dua Lipa)",
+      "artist": "Andrea Bocelli",
+      "has_synced": true,
+      "path": "select/12_If_Only_(feat._Dua_Lipa)_Andrea_Bocelli.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It’s Only (feat. Zyra) (ODESZA VIP Remix)",
+      "artist": "ODESZA, Zyra",
+      "has_synced": true,
+      "path": "select/13_It’s_Only_(feat._Zyra)_(ODESZA_VIP_Remix)_ODESZA,_Zyra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ray Lewis (Slappers Only) [feat. Sts]",
+      "artist": "Joywave feat. STS",
+      "has_synced": false,
+      "path": "select/14_Ray_Lewis_(Slappers_Only)_[feat._Sts]_Joywave_feat._STS.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ray Lewis (Slappers Only) [feat. Sts]",
+      "artist": "Joywave",
+      "has_synced": false,
+      "path": "select/15_Ray_Lewis_(Slappers_Only)_[feat._Sts]_Joywave.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Only (Feat. Drake, Lil Wayne & Chris Brown)",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/16_Only_(Feat._Drake,_Lil_Wayne_&_Chris_Brown)_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "One And Only (Feat. Fallout Boy)",
+      "artist": "Timbaland",
+      "has_synced": true,
+      "path": "select/17_One_And_Only_(Feat._Fallout_Boy)_Timbaland.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "19 It’s Only (feat. Zyra) (ODESZA VIP Remix)",
+      "artist": "ODESZA",
+      "has_synced": true,
+      "path": "select/18_19_It’s_Only_(feat._Zyra)_(ODESZA_VIP_Remix)_ODESZA.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "It's Only (feat. Zyra)",
+      "artist": "ODESZA",
+      "has_synced": true,
+      "path": "select/19_It's_Only_(feat._Zyra)_ODESZA.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "It’s Only (feat. Zyra) [RÜFÜS DU SOL Remix]",
+      "artist": "ODESZA feat. Zyra",
+      "has_synced": false,
+      "path": "select/20_It’s_Only_(feat._Zyra)_[RÜFÜS_DU_SOL_Remix]_ODESZA_feat._Zyra.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Only feat.Kotoha",
+      "artist": "Sizuk",
+      "has_synced": false,
+      "path": "select/pl_01_Only_feat.Kotoha_Sizuk.txt"
+    }
+  ]
+}
